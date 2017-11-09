@@ -17,7 +17,9 @@
 
 
 // Create your potrfolio object representation below
-
+$(document).ready(function(){
+    
+});
 
 
 

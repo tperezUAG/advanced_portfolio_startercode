@@ -2,8 +2,18 @@
 
 
 /* Header CSS */
-
-
+#header{
+    background-color: orange;
+    width: 100%;
+    height: 200px;
+}
+#portrait{
+    width: 120px;
+    height: 160px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* Section CSS */
 
@@ -19,7 +29,9 @@
     background-color:black;
     border:solid;
 }
-
+.project_name{
+    color:white;
+}
 
 /* Footer CSS */
 
